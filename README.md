@@ -9,9 +9,9 @@ And I get to do it alongside an amazing [team](https://ctrlcampus.dev/) of talen
 
 <p>
 <img alt="Html" src="https://img.shields.io/badge/-HTML5-DD0031?style=flat-square&logo=html5&logoColor=fff" />
-<img alt="Css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=000" />
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=000" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=000" />
+<img alt="Css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff" />
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=fff" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000" />
    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=000" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
