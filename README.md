@@ -8,7 +8,7 @@ And I get to do it alongside an amazing [team](https://ctrlcampus.dev/) of talen
 <h3>My Tech Stack 🍭</h3>
 
 <p>
-<img alt="Html" src="https://img.shields.io/badge/-Html5-DD0031?style=flat-square&logo=html&logoColor=fff" />
+<img alt="Html" src="https://img.shields.io/badge/-HTML5-DD0031?style=flat-square&logo=html5&logoColor=fff" />
 <img alt="Css" src="https://img.shields.io/badge/-Css3-1572B6?style=flat-square&logo=css&logoColor=000" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
