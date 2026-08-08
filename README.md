@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Vempati%20Kranthikiran&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
@@ -12,9 +11,9 @@
 <a href="https://www.linkedin.com/in/kranthikiran-vempati"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:kranthikiranvempati3@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Vkranthikiran"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Vkranthikiran&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="profile views"/>
 
 </div>
 
@@ -59,12 +58,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vkranthikiran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vkranthikiran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vkranthikiran&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
@@ -74,12 +73,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vkranthikiran&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%"/>
 
 <br/><br/>
 
-<!-- Snake animation — generate via github.com/Platane/snk action, commit output to a repo named `yourusername`, then this renders automatically -->
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!-- Snake animation — generate via github.com/Platane/snk action, commit output to a repo named `Vkranthikiran`, then this renders automatically -->
+<img src="https://raw.githubusercontent.com/Vkranthikiran/Vkranthikiran/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -103,7 +102,7 @@ A React-driven platform built around document comparison, Excel/sheet mapping wo
 </p>
 
 <p align="center">
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Vkranthikiran"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
@@ -122,7 +121,7 @@ A private-ledger styled wealth dashboard pulling live portfolio data — net wor
 </p>
 
 <p align="center">
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Vkranthikiran"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
@@ -141,7 +140,7 @@ A pixel-accurate marketing website translated from Figma into a fully responsive
 </p>
 
 <p align="center">
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Vkranthikiran"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
@@ -169,7 +168,7 @@ A pixel-accurate marketing website translated from Figma into a fully responsive
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Vkranthikiran&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
 
 </div>
 
@@ -181,7 +180,7 @@ A pixel-accurate marketing website translated from Figma into a fully responsive
 
 I'm open to full-stack roles and collaborations — reach out through any of the channels below.
 
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Vkranthikiran"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/kranthikiran-vempati"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:kranthikiranvempati3@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -193,3 +192,5 @@ I'm open to full-stack roles and collaborations — reach out through any of the
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 <div align="center">
+<sub>⚡ Thanks for stopping by — always shipping something new.</sub>
+</div>
