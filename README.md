@@ -1,73 +1,197 @@
 
-I'm **Kranthi kiran vempati**! A passionate Web developer with a focus on user experience. 
-My mission is to build products that users love to use as well as help clients expand their business. 
-And I get to do it alongside an amazing [team](https://ctrlcampus.dev/) of talented people in one of the most vibrant countries in the world. 
+<div align="center">
 
-![gopher dancing](./dancing-gopher.gif)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Vempati%20Kranthikiran&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-<h3>My Tech Stack 🍭</h3>
+<br/>
 
-<p>
-<img alt="Html" src="https://img.shields.io/badge/-HTML5-DD0031?style=flat-square&logo=html5&logoColor=fff" />
-<img alt="Css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff" />
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=fff" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javscript&logoColor=000" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000" />
-   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=000" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=000" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="ReactQuery" src="https://img.shields.io/badge/-React_Query-FF4154?style=flat-square&logo=reacttable&logoColor=fff" />
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=fff" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+products;React+%7C+Node.js+%7C+TypeScript+%7C+MongoDB;Turning+complex+problems+into+clean+UI;Open+to+full-stack+opportunities)](https://git.io/typing-svg)
 
-<p>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=fff" />
-  <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=fff" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=fff" />
-</p>
+<br/>
 
-<h3>Statistics and Projects 🥖</h3>
+<a href="https://www.linkedin.com/in/kranthikiran-vempati"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:kranthikiranvempati3@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-![](https://github-readme-stats.vercel.app/api?username=vkranthikiran&show_icons=true&theme=radical&line_height=33)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vkranthikiran&hide=css,java,ruby,starlark,html,objective-c,php,scss,Dockerfile,python,shell,makefile&theme=radical&line_height=27)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=vkranthikiran&repo=gridbit&theme=radical)](https://github.com/vkranthikiran/gridbit)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=vkranthikiran&repo=identer&theme=radical)](https://github.com/vkranthikiran/identer)
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="profile views"/>
 
-
-<h3>When the error is unknown 🍌</h3>
-
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
-<br />
+<br/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vkranthikiran)
+## 🧭 About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280"/>
+
+- 🚀 Full Stack Web Developer specializing in **React ecosystems**, scalable **Node.js/Express APIs**, and production-grade UI engineering
+- 🏗️ Experienced building **enterprise dashboards, data-heavy interfaces, and document/finance tooling** — from large virtualized tables to real-time integrations
+- 🎯 Strong focus on **performance** — virtualization, lazy loading, memoization — and translating **Figma designs into pixel-accurate, responsive code**
+- 🔌 Comfortable across the stack: **REST APIs, MongoDB/MySQL, authentication flows, Docker, and CI/CD pipelines**
+- 🌱 Currently deepening my knowledge of **AI-assisted engineering, System Design, and Cloud/DevOps**
+- 💬 Always happy to talk shop on **React architecture, API design, and UI performance**
+
+<br clear="right"/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,docker,linux,postman&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Frontend | Backend | Database | Tools & DevOps |
+|:---:|:---:|:---:|:---:|
+| React · Next.js | Node.js · Express.js | MongoDB · MySQL | Git · GitHub |
+| TypeScript · JavaScript (ES6+) | REST APIs | Mongoose | Docker |
+| Tailwind CSS · Bootstrap | Authentication & CORS | Schema Design | VS Code · Postman · Linux |
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats & Streak
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117" />
+
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%"/>
+
+<br/><br/>
+
+<!-- Snake animation — generate via github.com/Platane/snk action, commit output to a repo named `yourusername`, then this renders automatically -->
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+## 💼 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">🛰️ Falcon</h3>
+<p align="center"><i>Enterprise Multimedia Platform</i></p>
+
+A React-driven platform built around document comparison, Excel/sheet mapping workflows, and heavy data dashboards — with drag-and-drop builders, live charts, calendars, and virtualized views handling thousands of rows smoothly.
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white"/></a>
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">💰 Wealth Ledger</h3>
+<p align="center"><i>Personal Wealth Management Platform</i></p>
+
+A private-ledger styled wealth dashboard pulling live portfolio data — net worth, allocation, holdings, SIPs, and risk analytics — with an interactive financial planner and rich data visualizations across a tabbed, production-grade UI.
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Recharts-8B5CF6?style=flat-square&logo=chartdotjs&logoColor=white"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white"/></a>
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🎨 Talliant</h3>
+<p align="center"><i>Figma-to-Code Corporate Website</i></p>
+
+A pixel-accurate marketing website translated from Figma into a fully responsive build, focused on clean component architecture, accessibility, and smooth handoff from design system to production code.
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white"/></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧠 Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20%26%20LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/System%20Design-FF6B6B?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 🏆 Achievement Badges
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+
+</div>
+
+<br/>
+
+## 📬 Let's Connect
+
+<div align="center">
+
+I'm open to full-stack roles and collaborations — reach out through any of the channels below.
+
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kranthikiran-vempati"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:kranthikiranvempati3@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+<div align="center">
+<sub>⚡ Thanks for stopping by — always shipping something new.</sub>
+</div>
